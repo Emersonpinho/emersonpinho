@@ -43,10 +43,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-    <img src="physics.png" height="30" alt="React native"/>
-    <img src="android.png" height="30" alt="Android studio"/>
-    <img src="visual-studio.png" height="30" alt="visual studio"/>
-    <img src="unity.png" height="30" alt="Unity"/>
   </p>
 </div>
 
