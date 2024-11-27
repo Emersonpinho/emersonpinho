@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:contatoemersonpinho@gmail.com">Contato: contatoemersonpinho@gmail.com</a>
+  <a href="mailto:the.emerson.araujo@gmail.com">Contato: the.emerson.araujo@gmail.com</a>
 </p>
 
 ---
