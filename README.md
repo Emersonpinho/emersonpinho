@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="center">Oi! 👋 Eu sou Emerson Pinho</h1>
+<h1 align="center">Oi! 👋 Eu sou Emerson Pinho!</h1>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
