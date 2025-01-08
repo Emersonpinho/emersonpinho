@@ -14,6 +14,11 @@
 </p>
 
 ---
+<p align="center">
+    <img alt="Shaggy's Activity Graph"
+        src="https://github-readme-activity-graph.vercel.app/graph/?username=Emersonpinho&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
+        align="center" width="100%" />
+</p>
 
 <div align="center">
   <h3>Sobre Mim</h3>
