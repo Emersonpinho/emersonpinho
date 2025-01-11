@@ -2,16 +2,16 @@
 
 ---
 
-<h1 align="center">Oi! 👋 Eu sou Emerson Pinho!</h1>
+<h1 align="center">Hi! 👋 I'm Emerson Pinho!</h1>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=C2FFC7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End+💻;Nordestino+de+Matureia-PB+🌵;Sempre+explorando+novas+tecnologias!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=C2FFC7&center=true&vCenter=true&width=600&lines=Back-End+Developer+💻;Nordestino+from+Matureia-PB+🌵;Always+exploring+new+technologies!" alt="Typing SVG" />
     </a>
 </div>
 
 <p align="center">
-  <a href="mailto:the.emerson.araujo@gmail.com">Contato: the.emerson.araujo@gmail.com</a>
+  <a href="mailto:the.emerson.araujo@gmail.com">Contact: the.emerson.araujo@gmail.com</a>
 </p>
 
 ---
@@ -22,9 +22,9 @@
 </p>
 
 <div align="center">
-  <h3>Sobre Mim</h3>
-  <p>🔍 Explorando novas tecnologias e focado em código aberto.</p>
-  <p>🎯 Objetivo: Aprender sempre e compartilhar conhecimento.</p>
+  <h3>About Me</h3>
+  <p>🔍 Exploring new technologies and focusing on open-source projects.</p>
+  <p>🎯 Goal: Always learning and sharing knowledge.</p>
 </div>
 
 ---
@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <h3>Tecnologias</h3>
+  <h3>Technologies</h3>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript"/>
@@ -55,10 +55,10 @@
 ---
 
 <div align="center">
-  <h3>🚀 Projetos</h3>
-  <p><a href="https://github.com/Emerson10110/IAprevisoes"><strong>IAprevisoes</strong></a>: Previsões de dados com IA.</p>
-  <p><a href="https://github.com/Emerson10110/filmes-recomendacoes"><strong>Site de Recomendações de Filmes</strong></a>: Recomendações de filmes baseadas em avaliações.</p>
-  <p><a href="https://github.com/Emerson10110/Hashzap"><strong>Hashzap</strong></a>: Chat dinâmico com Python e Flet.</p>
+  <h3>🚀 Projects</h3>
+  <p><a href="https://github.com/Emerson10110/IAprevisoes"><strong>IAprevisoes</strong></a>: Data predictions with AI.</p>
+  <p><a href="https://github.com/Emerson10110/filmes-recomendacoes"><strong>Movie Recommendation Website</strong></a>: Movie recommendations based on reviews.</p>
+  <p><a href="https://github.com/Emerson10110/Hashzap"><strong>Hashzap</strong></a>: Dynamic chat using Python and Flet.</p>
 </div>
 
 ---
