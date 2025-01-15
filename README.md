@@ -1,4 +1,8 @@
-![MASTER-HEAD](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9a01f19b-1ce3-4fc4-9dc1-d9d06897b0da" alt="Imagem centralizada">
+</div>
+
+
 
 ---
 
