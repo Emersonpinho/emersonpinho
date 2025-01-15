@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9a01f19b-1ce3-4fc4-9dc1-d9d06897b0da" alt="Imagem centralizada">
+    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/Beige%20Neutral%20Simple%20Motivational%20Desktop%20Wallpaper.png" alt="Imagem centralizada">
 </div>
 
 
