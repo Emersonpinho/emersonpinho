@@ -54,6 +54,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
     <img src="https://github.com/user-attachments/assets/20676028-6161-4a40-8aa1-18a1ef786b09" height="30" alt="react"/>
+    <img src="https://github.com/user-attachments/assets/4c23bebe-ae62-454f-8a81-0228d34004dc" height="30" alt="linux"/>
+
   </p>
 </div>
 
