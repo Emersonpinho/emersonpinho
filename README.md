@@ -56,7 +56,7 @@
     <img src="https://github.com/user-attachments/assets/20676028-6161-4a40-8aa1-18a1ef786b09" height="30" alt="react"/>
     <img src="https://github.com/user-attachments/assets/4c23bebe-ae62-454f-8a81-0228d34004dc" height="30" alt="linux"/>
     <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/postman.svg" height="30" alt="postman"/>
-    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/android.png" height="30" alt="postman"/>
+    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/android.png" height="30" alt="android"/>
       
   </p>
 </div>
@@ -73,7 +73,7 @@
 ---
 
 <p align="center">
-    <a href="https://linkedin.com/in/emerson-pinho-a02567331">LinkedIn</a> | <a href="mailto:the.emerson.araujo@gmail.com">E-mail</a>
+    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/linkedin.png" height="16" alt="postman"/> <a href="https://linkedin.com/in/emerson-pinho-a02567331"> LinkedIn </a> | <a href="mailto:the.emerson.araujo@gmail.com">E-mail</a>
 </p>
 
 ---
