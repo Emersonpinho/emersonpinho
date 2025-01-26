@@ -57,7 +57,6 @@
     <img src="https://github.com/user-attachments/assets/4c23bebe-ae62-454f-8a81-0228d34004dc" height="30" alt="linux"/>
     <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/postman.svg" height="30" alt="postman"/>
     <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/android.png" height="30" alt="android"/>
-      
   </p>
 </div>
 
@@ -73,7 +72,7 @@
 ---
 
 <p align="center">
-    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/linkedin.png" height="16" alt="postman"/> <a href="https://linkedin.com/in/emerson-pinho-a02567331"> LinkedIn </a> | <a href="mailto:the.emerson.araujo@gmail.com">E-mail</a>
+    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/linkedin.png" height="16" alt="postman"/> <a href="https://linkedin.com/in/emerson-pinho-a02567331"> LinkedIn </a> | <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/gmail.png" height="16" alt="gmail"/> <a href="https://linkedin.com/in/emerson-pinho-a02567331"> <a href="mailto:the.emerson.araujo@gmail.com">E-mail</a>
 </p>
 
 ---
