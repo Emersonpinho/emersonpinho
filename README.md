@@ -33,6 +33,26 @@
 ---
 
 <div align="center">
+    <h3>🏆 GitHub Stats<h3>
+  <img 
+    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold&hide_border=true&hide=issues,contribs"
+    alt="GitHub Stats"
+  />
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonpinho&layout=compact&hide_border=true&theme=maroongold&langs_count=6&hide=jupyter%20notebook,tex,css,php"
+    alt="Top Languages"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Emersonpinho&theme=maroongold&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</div>
+
+---
+
+<div align="center">
     <h3>📊 Status</h3>
     <p>
         <a href="https://github.com/Emerson10110"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
