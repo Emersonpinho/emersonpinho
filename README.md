@@ -57,6 +57,14 @@
 
 ---
 
+<div align= "center">
+    <h3> 📚 study repository</h3>
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold"
+    />
+    
+</div>
+
 <div align="center">
     <h3>📊 Status</h3>
     <p>
@@ -69,7 +77,7 @@
 ---
 
 <div align="center">
-    <h3>Technologies</h3>
+    <h3>📱Technologies</h3>
     <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
