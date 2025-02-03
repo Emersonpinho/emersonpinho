@@ -47,12 +47,6 @@
     alt="Top Languages"
   />
   
-  <img
-    height="150"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Emersonpinho&theme=maroongold&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-  
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold"
     alt="grafico git hub"
