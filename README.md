@@ -24,6 +24,8 @@
         align="center" width="100%" />
 </p>
 
+---
+
 <div align="center">
     <h3>About Me</h3>
     <p>🔍 Exploring new technologies and focusing on open-source projects.</p>
@@ -64,6 +66,8 @@
     />
     
 </div>
+
+---
 
 <div align="center">
     <h3>📊 Status</h3>
