@@ -70,6 +70,9 @@
     <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold"
     />
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=MeusLivros&theme=maroongold"
+    />
     
 </div>
 
