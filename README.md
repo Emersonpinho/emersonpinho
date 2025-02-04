@@ -64,6 +64,12 @@
     <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold"
     />
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold"
+    />
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold"
+    />
     
 </div>
 
