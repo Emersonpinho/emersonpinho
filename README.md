@@ -75,16 +75,6 @@
   
 </div>
 
----
-
-<div align="center">
-    <h3>📊 Status</h3>
-    <p>
-        <a href="https://github.com/Emerson10110"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-        <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=Emerson10110.Emerson10110" alt="visitors" />
-    </p>
-</div>
 
 ---
 
