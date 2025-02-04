@@ -34,6 +34,25 @@
 
 ---
 
+<div align= "center">
+    <h3> 📚 study repository</h3>
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold"
+    />
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold"
+    />
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold"
+    />
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=MeusLivros&theme=maroongold"
+    />
+    
+</div>
+
+---
+
 <div align="center">
     <h3>🏆 GitHub Stats<h3>
         
@@ -54,26 +73,6 @@
   
   
   
-</div>
-
-
----
-
-<div align= "center">
-    <h3> 📚 study repository</h3>
-    <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold"
-    />
-    <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold"
-    />
-    <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold"
-    />
-    <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=MeusLivros&theme=maroongold"
-    />
-    
 </div>
 
 ---
