@@ -60,22 +60,16 @@
 <div align="center">
     <h3>🏆 GitHub Stats<h3>
         
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold"
-    alt="grafico git hub"
-  />
-        
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold&hide_border=true&hide=issues,contribs"
-    alt="GitHub Stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonpinho&layout=compact&hide_border=true&theme=maroongold&langs_count=6&hide=jupyter%20notebook,tex,css,php"
-    alt="Top Languages"
-  />
-  
-  
+  <div style="display: flex; justify-content: center;">
+    <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" alt="Gráfico GitHub" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold&hide_border=true&hide=issues,contribs" alt="GitHub Stats" />
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonpinho&layout=compact&hide_border=true&theme=maroongold&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
+</div>
+
+    
   
 </div>
 
