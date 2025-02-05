@@ -38,19 +38,19 @@
     <h3> 📚 study repository</h3>
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=kacho_ga"
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=kacho_ga"
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=kacho_ga"
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=MeusLivros&theme=maroongold"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=MeusLivros&theme=kacho_ga"
     />
     
 </div>
@@ -61,16 +61,9 @@
     <h3>🏆 GitHub Stats<h3>
         
   <div style="display: flex; justify-content: center;">
-    <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" alt="Gráfico GitHub" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold&hide_border=true&hide=issues,contribs" alt="GitHub Stats" />
-</div>
-
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonpinho&layout=compact&hide_border=true&theme=maroongold&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
-</div>
-
-    
-  
+    <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=kacho_ga" alt="Gráfico GitHub" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=kacho_ga&hide_border=true&hide=issues,contribs" alt="GitHub Stats" />  
+    </div>
 </div>
 
 
@@ -79,7 +72,7 @@
 <div align="center">
     <h3>📱Technologies</h3>
     <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg&theme="kacho_ga&height="30" alt="Python" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP" />
