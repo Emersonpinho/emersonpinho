@@ -38,19 +38,19 @@
     <h3> 📚 study repository</h3>
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=kacho_ga"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold"
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=kacho_ga"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold"
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=kacho_ga"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold"
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=MeusLivros&theme=kacho_ga"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=MeusLivros&theme=maroongold"
     />
     
 </div>
@@ -61,8 +61,8 @@
     <h3>🏆 GitHub Stats<h3>
         
   <div style="display: flex; justify-content: center;">
-    <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=kacho_ga" alt="Gráfico GitHub" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=kacho_ga&hide_border=true&hide=issues,contribs" alt="GitHub Stats" />  
+    <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" alt="Gráfico GitHub" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold&hide_border=true&hide=issues,contribs" alt="GitHub Stats" />  
     </div>
 </div>
 
