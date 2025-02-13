@@ -42,7 +42,7 @@
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold&descripton="""
     />
     <img
         height="110"
