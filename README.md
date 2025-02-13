@@ -38,7 +38,7 @@
     <h3> 📚 study repository</h3>
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold&descripton=""
     />
     <img
         height="110"
