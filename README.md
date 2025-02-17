@@ -54,7 +54,7 @@
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=bancoDeDadoEssencialComObisidian&theme=maroongold&descripton="""
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=https://github.com/Emersonpinho/bancoDeDadosEssensialComObsidiam&theme=maroongold&descripton="""
     />
     
     
