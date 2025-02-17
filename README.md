@@ -50,11 +50,11 @@
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold&descripton="""
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsidian&theme=maroongold&descripton="""
     />
     <img
         height="110"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=https://github.com/Emersonpinho/bancoDeDadosEssensialComObsidiam&theme=maroongold&descripton="""
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=bancoDeDadosEssensialComObsidiam&theme=maroongold&descripton="""
     />
     
     
