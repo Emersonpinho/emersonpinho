@@ -52,6 +52,10 @@
         height="110"
         src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsididiam&theme=maroongold&descripton="""
     />
+    <img
+        height="110"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=bancoDeDadoEssencialComObisidian&theme=maroongold&descripton="""
+    />
     
     
 </div>
