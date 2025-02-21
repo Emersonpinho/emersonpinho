@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-    <h3>🏆 GitHub Stats<h3>
+    <h3>🏆 GitHub Stats <h3>
         
   <div style="display: flex; justify-content: center;">
     <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" alt="Gráfico GitHub" />
