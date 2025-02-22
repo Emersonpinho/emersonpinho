@@ -27,7 +27,7 @@
 ---
 
 <div align= "center">
-    <h3> 📚 study repository</h3>
+    <h3> 📚 study repository:</h3>
     <img
         height="110"
         src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold&descripton=""
