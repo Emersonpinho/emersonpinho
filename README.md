@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-    <h3>📱Technologies</h3>
+    <h3>📱Technologies:</h3>
     <p>
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/icons8-python-48.png" height="30" alt="python" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
