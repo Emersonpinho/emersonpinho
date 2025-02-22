@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-    <h3>🚀 Projects</h3>
+    <h3>🚀 Projects:</h3>
     <p><a href="https://github.com/Emerson10110/filmes-recomendacoes"><strong>Movie Recommendation Website</strong></a>: Movie recommendations based on reviews.</p>
     <p><a href="https://github.com/Emerson10110/Hashzap"><strong>Hashzap</strong></a>: Dynamic chat using Python and Flet.</p>
     <p><a href="https://github.com/Emerson10110/IAprevisoes"><strong>IAprevisoes</strong></a>: Data predictions with AI.</p>
