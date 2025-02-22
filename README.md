@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-    <h3>About Me</h3>
+    <h3>About Me:</h3>
     <p>🔍 Exploring new technologies and focusing on open-source projects.</p>
     <p>🎯 Goal: Always learning and sharing knowledge.</p>
 </div>
