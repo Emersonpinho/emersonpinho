@@ -27,7 +27,7 @@
 ---
 
 <div align= "center">
-    <h3> 📚 study repository:</h3>
+    <h3> 📚 study repository</h3>
     <img
         height="110"
         src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold&descripton=""
@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-    <h3>🏆 GitHub Stats:<h3>
+    <h3>🏆 GitHub Stats<h3>
         
   <div style="display: flex; justify-content: center;">
     <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" alt="Gráfico GitHub" />
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-    <h3>📱Technologies:</h3>
+    <h3>📱Technologies</h3>
     <p>
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/icons8-python-48.png" height="30" alt="python" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
@@ -81,7 +81,7 @@
 ---
 
 <div align="center">
-    <h3>🚀 Projects:</h3>
+    <h3>🚀 Projects</h3>
     <p><a href="https://github.com/Emerson10110/filmes-recomendacoes"><strong>Movie Recommendation Website</strong></a>: Movie recommendations based on reviews.</p>
     <p><a href="https://github.com/Emerson10110/Hashzap"><strong>Hashzap</strong></a>: Dynamic chat using Python and Flet.</p>
     <p><a href="https://github.com/Emerson10110/IAprevisoes"><strong>IAprevisoes</strong></a>: Data predictions with AI.</p>
