@@ -76,7 +76,7 @@
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/postman.svg" height="30" alt="postman" />
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/android.png" height="30" alt="android" />
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/java-logo-7833D1D21A-seeklogo.com.png" height="30" alt="java" />
-        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/golangIcon.png" height="30" alt="icone da linguagem go" />
+        
     </p>
 </div>
 
