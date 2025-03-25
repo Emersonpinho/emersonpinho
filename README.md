@@ -66,17 +66,17 @@
     <h3>📱Technologies</h3>
     <p>
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/icons8-python-48.png" height="30" alt="python" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-        <img src="https://github.com/user-attachments/assets/20676028-6161-4a40-8aa1-18a1ef786b09" height="30" alt="react" />
-        <img src="https://github.com/user-attachments/assets/4c23bebe-ae62-454f-8a81-0228d34004dc" height="30" alt="linux" />
-        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/postman.svg" height="30" alt="postman" />
-        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/android.png" height="30" alt="android" />
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/java-logo-7833D1D21A-seeklogo.com.png" height="30" alt="java" />
         <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/iconeGo.png" height="30" alt="Golang" />    
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+        <img src="https://github.com/user-attachments/assets/20676028-6161-4a40-8aa1-18a1ef786b09" height="30" alt="react" />
+        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/android.png" height="30" alt="android" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+        <img src="https://github.com/user-attachments/assets/4c23bebe-ae62-454f-8a81-0228d34004dc" height="30" alt="linux" />
+        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/postman.svg" height="30" alt="postman" />
     </p>
 </div>
 
