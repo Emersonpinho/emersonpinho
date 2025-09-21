@@ -90,13 +90,6 @@
 
 ---
 
-<div align="center">
-    <h3>🤝 Minha Comunidade</h3>
-    <p>
-        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/discord.png" height="15" alt="discord" />
-        <a href="https://discord.gg/VBHsMEaF"><strong>Laboratório dev</strong></a>: Um espaço para desenvolvedores compartilharem ideias e projetos.
-    </p>
-</div>
 
 ---
 
