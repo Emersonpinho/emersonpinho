@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-    <a href="mailto:the.emerson.araujo@gmail.com">Contact: the.emerson.araujo@gmail.com</a>
+    <a href="mailto:emersonpinhocomercial@gmail.com">Contact: emersonpinhocomercial@gmail.com</a>
 </p>
 
 ---
