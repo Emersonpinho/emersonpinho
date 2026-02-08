@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi! 👋 I'm Emerson Pinho!</h1>
+<h1 align="center">Hi! 👋 I'm Emerson!</h1>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
