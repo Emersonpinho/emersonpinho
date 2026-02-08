@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-    <strong>✉️ Entre em contato:</strong> <a href="mailto:emersonpinhocomercial@gmail.com">emersonpinhocomercial@gmail.com</a>
+    <strong>Contato:</strong> <a href="mailto:emersonpinhocomercial@gmail.com">emersonpinhocomercial@gmail.com</a>
 </p>
 
 ---
@@ -65,36 +65,7 @@
     <p><em>Contribuições e progresso ao longo do tempo</em></p>
     <br/>
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" alt="Gráfico GitHub" />
-    <br/><br/>
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold&hide_border=true&hide=issues,contribs" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-    <h2>🚀 Projetos em Destaque</h2>
-    <p><em>Projetos práticos que demonstram minhas habilidades e paixão por desenvolvimento</em></p>
-    <br/>
-    <table>
-        <tr>
-            <td align="left">
-                <h3>🎬 <a href="https://github.com/Emerson10110/filmes-recomendacoes"><strong>Movie Recommendation Website</strong></a></h3>
-                <p>Website inteligente de recomendação de filmes baseado em avaliações de usuários.</p>
-            </td>
-        </tr>
-        <tr>
-            <td align="left">
-                <h3>💬 <a href="https://github.com/Emerson10110/Hashzap"><strong>Hashzap</strong></a></h3>
-                <p>Chat dinâmico e em tempo real desenvolvido com Python e Flet.</p>
-            </td>
-        </tr>
-        <tr>
-            <td align="left">
-                <h3>🤖 <a href="https://github.com/Emerson10110/IAprevisoes"><strong>IAprevisoes</strong></a></h3>
-                <p>Sistema de previsões de dados utilizando inteligência artificial avançada.</p>
-            </td>
-        </tr>
-    </table>
 </div>
 
 ---
