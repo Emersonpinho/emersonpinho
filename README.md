@@ -71,9 +71,6 @@
 
 ---
 
-
----
-
 <p align="center">
     <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/linkedin.png" height="16" alt="linkedin" /> 
     <a href="https://linkedin.com/in/emerson-pinho-a02567331"> LinkedIn </a> | 
