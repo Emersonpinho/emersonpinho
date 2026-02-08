@@ -27,45 +27,35 @@
 ---
 
 <div align="center">
-    <h2>📚 Repositórios de Estudo</h2>
-    <p><em>Documentação essencial organizada e estruturada para aprendizado contínuo</em></p>
-    <br/>
-    <table>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/Emersonpinho/pythonEssencialComObsidiam">
-                    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=pythonEssencialComObsidiam&theme=maroongold" />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Emersonpinho/algoritmoEssencialComObsidian">
-                    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=algoritmoEssencialComObsidian&theme=maroongold" />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/Emersonpinho/inteligenciaArtificialEssencialComObsidian">
-                    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=inteligenciaArtificialEssencialComObsidian&theme=maroongold" />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Emersonpinho/bancoDeDadosEssensialComObsidiam">
-                    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Emersonpinho&repo=bancoDeDadosEssensialComObsidiam&theme=maroongold" />
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
-
----
-
-<div align="center">
     <h2>🏆 Estatísticas do GitHub</h2>
     <p><em>Contribuições e progresso ao longo do tempo</em></p>
-    <br/>
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" alt="Gráfico GitHub" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold&hide_border=true&hide=issues,contribs" alt="GitHub Stats" />
+    <br/>  
+    <!-- Card 1: Profile Details -->
+    <a href="https://github.com/Emersonpinho">
+        <img 
+            width="100%" 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" 
+            alt="Profile Details"
+        />
+    </a> 
+    <br/><br/>
+    <!-- Card 2: GitHub Stats -->
+    <a href="https://github.com/Emersonpinho">
+        <img 
+            width="100%" 
+            src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold" 
+            alt="GitHub Stats"
+        />
+    </a>    
+    <br/><br/>
+    <!-- Card 3: Top Languages (Extra Visual) -->
+    <a href="https://github.com/Emersonpinho">
+        <img 
+            width="100%" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonpinho&theme=maroongold" 
+            alt="Top Languages"
+        />
+    </a>
 </div>
 
 ---
