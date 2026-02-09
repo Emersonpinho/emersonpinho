@@ -34,54 +34,12 @@
     <a href="https://github.com/Emersonpinho">
         <img 
             width="100%" 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=github_dark" 
             alt="Profile Details"
         />
-</div>
-
----
-
----
-
-<div align="center">
-    <h2>📚 Repositórios que Podem te Ajudar</h2>
-    <p><em>Conteúdos práticos para facilitar seus estudos e seu dia a dia como dev</em></p>
-</div>
-
-<br/>
-
-<div align="center">
-
-📌 <strong>
-<a href="https://github.com/Emersonpinho/comoCriarAmbienteVirtualPython">
-🐍 Como Criar Ambiente Virtual em Python
-</a>
-</strong>
-<br/>
-<em>Guia simples e direto para organizar seus projetos Python com ambientes virtuais.</em>
-
-<br/><br/>
-
-📌 <strong>
-<a href="https://github.com/Emersonpinho/ComoBaixarXamppNoLinux">
-🐧 Como Baixar e Instalar o XAMPP no Linux
-</a>
-</strong>
-<br/>
-<em>Passo a passo para configurar Apache, PHP e MySQL no Linux sem dor de cabeça.</em>
-
-<br/><br/>
-
-📌 <strong>
-<a href="https://github.com/Emersonpinho/minhasConfiguracoesNoVscode">
-🧩 Minhas Configurações do VS Code
-</a>
-</strong>
-<br/>
-<em>Extensões, atalhos e configurações que uso no meu fluxo de desenvolvimento.</em>
 
 </div>
-
+        
 ---
 
 
@@ -106,3 +64,5 @@
 <div align="center">
     <p>⭐ Se meu trabalho foi útil, considere dar uma estrela nos repositórios!</p>
 </div>
+
+
