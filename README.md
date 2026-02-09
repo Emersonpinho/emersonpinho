@@ -31,12 +31,25 @@
     <p><em>Contribuições e progresso ao longo do tempo</em></p>
     <br/>  
     <!-- Card 1: Profile Details -->
-    <a href="https://github.com/Emersonpinho">
-        <img 
-            width="100%" 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=github_dark" 
-            alt="Profile Details"
-        />
+<div align="center">
+
+<a href="https://github.com/Emersonpinho">
+    <img 
+        width="100%" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=github_dark" 
+        alt="Profile Details"
+    />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Emersonpinho">
+    <img 
+        width="75%" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emersonpinho&theme=github_dark" 
+        alt="Most Commit Language"
+    />
+</a>
 
 </div>
         
