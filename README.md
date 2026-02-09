@@ -35,17 +35,14 @@
 
 <a href="https://github.com/Emersonpinho">
     <img 
-        width="100%" 
+        width="70%" 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=github_dark" 
         alt="Profile Details"
     />
 </a>
-
-<br/><br/>
-
 <a href="https://github.com/Emersonpinho">
     <img 
-        width="75%" 
+        width="40%" 
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emersonpinho&theme=github_dark" 
         alt="Most Commit Language"
     />
