@@ -37,25 +37,6 @@
             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emersonpinho&theme=maroongold" 
             alt="Profile Details"
         />
-    </a> 
-    <br/><br/>
-    <!-- Card 2: GitHub Stats -->
-    <a href="https://github.com/Emersonpinho">
-        <img 
-            width="100%" 
-            src="https://github-readme-stats.vercel.app/api?username=Emersonpinho&show_icons=true&count_private=true&theme=maroongold" 
-            alt="GitHub Stats"
-        />
-    </a>    
-    <br/><br/>
-    <!-- Card 3: Top Languages (Extra Visual) -->
-    <a href="https://github.com/Emersonpinho">
-        <img 
-            width="100%" 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonpinho&theme=maroongold" 
-            alt="Top Languages"
-        />
-    </a>
 </div>
 
 ---
