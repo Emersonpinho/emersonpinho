@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/bannerGithub.png" alt="Imagem centralizada">
+    <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/cartao_emerson_atualizado.png" alt="Imagem centralizada">
 </div>
 
 ---
