@@ -49,25 +49,6 @@
 </a>
 
 </div>
-        
----
-
-
-<div align="center">
-    <h2>🌐 Conecte-se Comigo</h2>
-    <br/>
-    <a href="https://linkedin.com/in/emerson-pinho-a02567331">
-        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/linkedin.png" height="20" alt="LinkedIn" /> 
-        <strong>LinkedIn</strong>
-    </a> 
-    &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="mailto:the.emerson.araujo@gmail.com">
-        <img src="https://github.com/Emersonpinho/emersonpinho/blob/main/icon/gmail.png" height="20" alt="Gmail" /> 
-        <strong>E-mail</strong>
-    </a>
-    <br/><br/>
-    <p><em>Sempre aberto a colaborações, feedbacks e novas oportunidades! 😊</em></p>
-</div>
 
 ---
 
